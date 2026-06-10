@@ -16,3 +16,5 @@ Connected pins:
 - LCD operates in 4-bit mode
 - PCF8574 is used as an I/O expander
 - Backlight (BL) control is included in the data frame
+
+The main C file is located in I2C Driver/Core/Src
